@@ -103,7 +103,6 @@ All insights are supported with clear and labeled visualizations created using M
 
 ## Future Improvements
 
-* Add time-based analysis (trend over months/years)
 * Include city-level location analysis
 * Apply NLP techniques to extract skills from raw descriptions
 * Deploy as a web-based dashboard
@@ -112,7 +111,7 @@ All insights are supported with clear and labeled visualizations created using M
 
 ## Author
 
-**Waseem Channa**
+**Mohammad Waseem Channa**
 Aspiring Data Scientist & Machine Learning Enthusiast
 
 ---
