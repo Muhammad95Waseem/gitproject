@@ -53,13 +53,20 @@ These steps ensure **accuracy, consistency, and reliability** of the analysis.
 
 ---
 
-## Analysis Performed
-
 ### 1️. Overall Skill Demand
 
 Analyzed the frequency of skills across all job postings to identify the most in-demand skills in the market.
 
-### 2️. Skill Demand by Location
+### 2. Job Level Distribution
+
+Analyzed the distribution of job calibre:
+
+* Mid Senior Level
+* Associate Level
+
+This helps understand which job is for who?
+
+### 3. Skill Demand by Location
 
 Focused on countries with significant job volume to avoid skewed insights:
 
@@ -68,16 +75,6 @@ Focused on countries with significant job volume to avoid skewed insights:
 * Canada
 
 This comparison highlights how **regional markets prioritize different skills**.
-
-### 3️. Job Type Distribution
-
-Analyzed the distribution of job types:
-
-* Onsite
-* Remote
-* Hybrid
-
-This helps understand current workplace trends and flexibility in the job market.
 
 ---
 
